@@ -2,8 +2,8 @@
 
 - :wink: Pronome Ela/Dela
 - :palm_tree: De Recife-PE
-- :bar_chart: Estudande de Analise De Dados pela Laboratória
-- :partly_sunny: Estudante de Fundamentos AWS pela escola da nuvem
+- :bar_chart: Estudande de Analise De Dados pela @laboratoria
+- :partly_sunny: Estudante de Fundamentos AWS pela @escoladanuvem
   
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](55081999063669)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](limatalitasantos@gmail.com)
